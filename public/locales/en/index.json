@@ -1,0 +1,23 @@
+{
+  "SEO_TITLE": "Main",
+  "SEO_DESCRIPTION": "Nextplate. Template with all you need. Aims for developers who really care about code quality, architecture, security and all the best practices in frontend",
+  "HERO_TITLE": "Nextplate. Template with all you need.",
+  "HERO_SUBTITLE": "Aims for developers who really care about code quality, architecture, security and all the best practices in frontend",
+  "HERO_DOCUMENTATION": "Documentation",
+  "FEATURES_TITLE": "Built-in features",
+  "FEATURES_PERFORMANT_TITLE": "Performant",
+  "FEATURES_PERFORMANT_DESCRIPTION": "Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, route pre-fetching, and more",
+  "FEATURES_RICH_TITLE": "Full-featured",
+  "FEATURES_RICH_DESCRIPTION": "Packed with full of useful features like i18n (<0>next-i18next</0>), Testing (<0>Jest</0>), Monitoring (<0>Sentry</0>), <0>Storybook</0>, API codegen (<0>Orval</0>) and much more!",
+  "FEATURES_DX_TITLE": "Best-in-class DX",
+  "FEATURES_DX_DESCRIPTION": "This boilerplate is meant for developers with basic skills in React, who are looking for a way of building production-grade web applications.",
+  "FEATURES_APPS_TITLE": "Built-in demos",
+  "FEATURES_APPS_DESCRIPTION": "This boilerplate has several built-in demo apps that show an example of using the features of this template.",
+  "DEMOS_TITLE": "Built-in demos",
+  "DEMOS_AUTH_TITLE": "Authorization",
+  "DEMOS_AUTH_DESCRIPTION": "This app provides an example of how to implement: authentication flow, refresh token rotation, form validation, page transitions. Source code provides an example of how to build application using Feature Sliced methodology and a state manager for managing complex state.",
+  "DEMOS_WEATHER_TITLE": "Weather",
+  "DEMOS_WEATHER_DESCRIPTION": "This app shows a detailed information on the current and future weather conditions in their area. Source code provides an example of how to work with getting data from a third-party api and its further display in pages.",
+  "DEMOS_PASSWORD_TITLE": "Passkip",
+  "DEMOS_PASSWORD_DESCRIPTION": "This app allows users to quickly and easily generate strong, secure passwords in browser for all their online accounts. Source code provides an example of how to work with styling, storybook and state management."
+}

@@ -1,0 +1,8 @@
+{
+  "SEO_TITLE": "$t(TITLE)",
+  "SEO_DESCRIPTION": "$t(DESCRIPTION)",
+  "TITLE": "Страница не найдена",
+  "SUBTITLE": "Ошибка 404",
+  "DESCRIPTION": "Такой страницы не существует.",
+  "BUTTON": "Домой"
+}

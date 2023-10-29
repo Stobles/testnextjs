@@ -1,0 +1,8 @@
+{
+  "SEO_TITLE": "$t(TITLE)",
+  "SEO_DESCRIPTION": "$t(DESCRIPTION)",
+  "TITLE": "Page not found",
+  "SUBTITLE": "404 Error",
+  "DESCRIPTION": "The page you are looking for could not be found.",
+  "BUTTON": "Go Home"
+}
